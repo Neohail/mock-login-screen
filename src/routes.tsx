@@ -1,9 +1,13 @@
 import React from "react";
-import { RouteObject, useRoutes } from "react-router-dom";
+import { Navigate, RouteObject, useRoutes } from "react-router-dom";
 import { Register } from "./modules/auth/pages/Register";
 
 export function Router(): React.ReactElement {
   const common: RouteObject[] = [
+    {
+      path: "/",
+      element: <Navigate to="/register" />,
+    },
     {
       path: "/register",
       element: <Register />,
