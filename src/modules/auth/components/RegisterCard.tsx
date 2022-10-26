@@ -22,6 +22,7 @@ export function RegisterCard({
       border={`1px solid ${selected ? "#784af4" : "grey"}`}
       borderRadius="4px"
       p="10px"
+      height="100%"
       sx={{ cursor: "pointer" }}
     >
       <Icon sx={{ color: selected ? "#784af4" : "black" }} />
