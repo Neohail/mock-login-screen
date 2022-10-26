@@ -1,0 +1,23 @@
+{
+    "eden": "Eden",
+    "welcome": "Welcome! First things first...",
+    "welcomeSubtitle": "We can always change them later.",
+    "createWorkspace": "Create Workspace",
+    "setupHome":"Let's setup a home for all your work",
+    "setupHomeSubtitle":"You can always create another workspace later.",
+    "workspaceName":"Workspace Name",
+    "howAreYouPlanning":"How are you planning to use Eden?",
+    "streamlineSetup":"We'll streamline your setup experience accordingly",
+    "completedOnboarding":"You have completed onboarding, you can start using Eden!",
+    "launchEden":"Launch Eden",
+    "edenUrl":"www.eden.com/",
+    "optional":"(optional)",
+    "workspaceUrl":"Workspace URL",
+    "displayName":"Display Name",
+    "fullName":"Full Name",
+    "forMyself":"For Myself",
+    "forMyselfSubtitle":"Write better. Think more Clearly. Stay organized",
+    "withTeam":"With my team",
+    "withTeamSubtitle":"Wikis, docs, tasks & projects, all in once place"
+
+}
